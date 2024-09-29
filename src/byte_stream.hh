@@ -4,8 +4,14 @@
 #include <string>
 #include <string_view>
 
-class Reader;
-class Writer;
+class Reader
+{
+
+};
+
+class Writer
+{
+};
 
 class ByteStream
 {
